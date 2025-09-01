@@ -9,8 +9,8 @@ Create a user named kirsty on App Server 2 in Stratos Datacenter. Set the expiry
 
 **Solution**
 
-sudo useradd -e 2024-04-15 kirsty
+$ sudo useradd -e 2024-04-15 kirsty
 
 **Verify user expiry**
 
-sudo chage -l  kristy
+$ sudo chage -l  kristy
