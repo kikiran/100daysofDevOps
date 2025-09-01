@@ -8,7 +8,9 @@ As part of the temporary assignment to the Nautilus project, a developer named k
 Create a user named kirsty on App Server 2 in Stratos Datacenter. Set the expiry date to 2024-04-15, ensuring the user is created in lowercase as per standard protocol.
 
 **Solution**
+
 sudo useradd -e 2024-04-15 kirsty
 
 **Verify user expiry**
+
 sudo chage -l  kristy
