@@ -1,9 +1,9 @@
-To accommodate the backup agent tool's specifications, the system admin team at 
-xFusionCorp Industries requires the creation of a user with a non-interactive shell. Here's your task:
+# Task: Create User with Non-Interactive Shell
 
+## Description
+To accommodate the backup agent tool's specifications, the system admin team at **xFusionCorp Industries** requires the creation of a user with a **non-interactive shell**.  
 
-
-Create a user named james with a non-interactive shell on App Server 3.
+We need to create a user named **james** on **App Server 3**
 
 **Solution**
 
