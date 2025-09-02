@@ -1,5 +1,5 @@
 
-# Task: Day 3: Temporary User Setup with Expiry
+# Task: Day 3: Secure Root SSH Access
 
 ## Description
 Following security audits, the xFusionCorp Industries security team has rolled out new protocols, including the restriction of direct root SSH login. 
