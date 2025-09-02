@@ -9,8 +9,11 @@ Following security audits, the xFusionCorp Industries security team has rolled o
 Your task is to disable direct SSH root login on all app servers within the Stratos Datacenter.
 
 [root@stapp01 ~] ssh tony@serveraddress
+
 [root@stapp01 ~] sudo su -
+
 [root@stapp01 ~]# vi /etc/ssh/sshd_config
+
 
 **Find the line and modify**
 
